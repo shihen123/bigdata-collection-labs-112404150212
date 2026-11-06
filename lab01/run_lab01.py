@@ -59,7 +59,10 @@ def main() -> int:
         return 1
     finally:
         # 无论成败，把已执行 cell 的输出回写主 notebook，便于在 IDE 中直接看到结果
+        # 只有 code cell 才有 outputs / execution_count 字段，markdown cell 不能写
         for pos, idx in enumerate(indices):
+            if nb.cells[idx].get("cell_type") != "code":
+                continue
             nb.cells[idx]["outputs"] = sub.cells[pos].get("outputs", [])
             nb.cells[idx]["execution_count"] = sub.cells[pos].get("execution_count")
         nbformat.write(nb, NB_PATH)
