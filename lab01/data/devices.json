@@ -1,0 +1,211 @@
+{
+  "meta": {
+    "task": "qq_emoji_download",
+    "source": "http://www.bspider.top/yh31/",
+    "crawled_at": "2026-11-06T17:36:23+08:00",
+    "count": 20,
+    "success": 20
+  },
+  "items": [
+    {
+      "seq": 1,
+      "name": "小牛萌三的日常表情包",
+      "url": "http://www.bspider.top/static/yh31/images/202103302056530751.gif",
+      "file": "output/qq_emojis/001_小牛萌三的日常表情包.gif",
+      "ext": "gif",
+      "size_bytes": 94696,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "seq": 2,
+      "name": "有关小兔吉祥的表情图片包",
+      "url": "http://www.bspider.top/static/yh31/images/202103182029425871.jpg",
+      "file": "output/qq_emojis/002_有关小兔吉祥的表情图片包.jpg",
+      "ext": "jpg",
+      "size_bytes": 17612,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "seq": 3,
+      "name": "有趣的大嘴蛙微信表情图片",
+      "url": "http://www.bspider.top/static/yh31/images/202103302125467574.gif",
+      "file": "output/qq_emojis/003_有趣的大嘴蛙微信表情图片.gif",
+      "ext": "gif",
+      "size_bytes": 47792,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "seq": 4,
+      "name": "快回家写作业",
+      "url": "http://www.bspider.top/static/yh31/images/202103302113573793.gif",
+      "file": "output/qq_emojis/004_快回家写作业.gif",
+      "ext": "gif",
+      "size_bytes": 53059,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "seq": 5,
+      "name": "知识就是力量",
+      "url": "http://www.bspider.top/static/yh31/images/202103302105360079.gif",
+      "file": "output/qq_emojis/005_知识就是力量.gif",
+      "ext": "gif",
+      "size_bytes": 56985,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "seq": 6,
+      "name": "握个手，很高兴认识你",
+      "url": "http://www.bspider.top/static/yh31/images/202005032307348305.gif",
+      "file": "output/qq_emojis/006_握个手，很高兴认识你.gif",
+      "ext": "gif",
+      "size_bytes": 76500,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "seq": 7,
+      "name": "你别走，再陪我玩一会",
+      "url": "http://www.bspider.top/static/yh31/images/202008242134566465.gif",
+      "file": "output/qq_emojis/007_你别走，再陪我玩一会.gif",
+      "ext": "gif",
+      "size_bytes": 114903,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "seq": 8,
+      "name": "奥利给",
+      "url": "http://www.bspider.top/static/yh31/images/202103182012577973.gif",
+      "file": "output/qq_emojis/008_奥利给.gif",
+      "ext": "gif",
+      "size_bytes": 83626,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "seq": 9,
+      "name": "拽住你的衣服，你别跑",
+      "url": "http://www.bspider.top/static/yh31/images/202009281909009090.gif",
+      "file": "output/qq_emojis/009_拽住你的衣服，你别跑.gif",
+      "ext": "gif",
+      "size_bytes": 90009,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "seq": 10,
+      "name": "有关呆萌酱的图片系列，呆萌酱与胖砸表情图片",
+      "url": "http://www.bspider.top/static/yh31/images/202005292024400321.gif",
+      "file": "output/qq_emojis/010_有关呆萌酱的图片系列，呆萌酱与胖砸表情图片.gif",
+      "ext": "gif",
+      "size_bytes": 262100,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "seq": 11,
+      "name": "有趣搞笑的尼歪鸭qq表情图片",
+      "url": "http://www.bspider.top/static/yh31/images/202102252010574976.jpg",
+      "file": "output/qq_emojis/011_有趣搞笑的尼歪鸭qq表情图片.jpg",
+      "ext": "jpg",
+      "size_bytes": 17600,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "seq": 12,
+      "name": "快带我飞吧",
+      "url": "http://www.bspider.top/static/yh31/images/202002111326013132.gif",
+      "file": "output/qq_emojis/012_快带我飞吧.gif",
+      "ext": "gif",
+      "size_bytes": 41889,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "seq": 13,
+      "name": "且慢，有事跟你讲",
+      "url": "http://www.bspider.top/static/yh31/images/202006231314078586.gif",
+      "file": "output/qq_emojis/013_且慢，有事跟你讲.gif",
+      "ext": "gif",
+      "size_bytes": 127772,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "seq": 14,
+      "name": "二哈二皇子疫情篇表情图片",
+      "url": "http://www.bspider.top/static/yh31/images/202102202159036260.gif",
+      "file": "output/qq_emojis/014_二哈二皇子疫情篇表情图片.gif",
+      "ext": "gif",
+      "size_bytes": 89178,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "seq": 15,
+      "name": "就一分钟，再等等",
+      "url": "http://www.bspider.top/static/yh31/images/201706141924382822.gif",
+      "file": "output/qq_emojis/015_就一分钟，再等等.gif",
+      "ext": "gif",
+      "size_bytes": 20115,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "seq": 16,
+      "name": "等一下，你别走",
+      "url": "http://www.bspider.top/static/yh31/images/201706122211091184.gif",
+      "file": "output/qq_emojis/016_等一下，你别走.gif",
+      "ext": "gif",
+      "size_bytes": 73147,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "seq": 17,
+      "name": "别留我，你别走",
+      "url": "http://www.bspider.top/static/yh31/images/201904031123398758.gif",
+      "file": "output/qq_emojis/017_别留我，你别走.gif",
+      "ext": "gif",
+      "size_bytes": 116477,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "seq": 18,
+      "name": "天气好冷的图片，冷得发抖的可爱图片",
+      "url": "http://www.bspider.top/static/yh31/images/202101062022524049.gif",
+      "file": "output/qq_emojis/018_天气好冷的图片，冷得发抖的可爱图片.gif",
+      "ext": "gif",
+      "size_bytes": 54038,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "seq": 19,
+      "name": "告辞，后会有期",
+      "url": "http://www.bspider.top/static/yh31/images/202008132324428899.gif",
+      "file": "output/qq_emojis/019_告辞，后会有期.gif",
+      "ext": "gif",
+      "size_bytes": 35021,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "seq": 20,
+      "name": "非常可爱的考拉小肉君qq表情包",
+      "url": "http://www.bspider.top/static/yh31/images/202012251743155618.gif",
+      "file": "output/qq_emojis/020_非常可爱的考拉小肉君qq表情包.gif",
+      "ext": "gif",
+      "size_bytes": 63099,
+      "status": "ok",
+      "error": null
+    }
+  ]
+}

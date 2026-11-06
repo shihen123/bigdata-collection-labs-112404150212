@@ -1,0 +1,19 @@
+{
+  "meta": {
+    "task": "mobile_attribution",
+    "source": "https://www.ip138.com/mobile.asp",
+    "queried_at": "2026-11-06T17:36:23+08:00"
+  },
+  "records": [
+    {
+      "region": "江苏 徐州",
+      "carrier": "中国电信",
+      "card_type": "",
+      "area_code": "0516",
+      "post_code": "221000",
+      "status": "ok",
+      "phone_masked": "193****4881",
+      "html_file": "output/mobile_query.html"
+    }
+  ]
+}
